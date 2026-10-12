@@ -19,7 +19,7 @@
        returns 404 (deleted/suspended). Add it back once the handle is confirmed. -->
 </p>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=alanzeng423&label=PROFILE+VIEWS&color=2E9EF7&style=flat-square" />
+<img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=alanzeng423.alanzeng423&left_text=Profile%20Views&left_color=555555&right_color=2E9EF7" />
 <img alt="Followers" src="https://img.shields.io/github/followers/alanzeng423?label=Followers&style=flat-square&color=8A2BE2&logo=github" />
 <img alt="Stars" src="https://img.shields.io/github/stars/alanzeng423?label=Stars&style=flat-square&color=2E9EF7&logo=github" />
 
